@@ -1,9 +1,9 @@
 # main links
 main:
+  - title: "홈"
+    url: https://rabbitbot2.github.io/
   - title: "디스코드"
     url: /categories/discord/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
